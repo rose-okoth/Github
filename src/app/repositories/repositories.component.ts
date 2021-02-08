@@ -19,7 +19,6 @@ export class RepositoriesComponent implements OnInit {
         this.searchRepo = '';
         this.resultCount = 10;
         this.getDataFunction();
-
     }
 
     constructor(public gitRepoRequest: SearchRequestService ) { }
@@ -28,12 +27,8 @@ export class RepositoriesComponent implements OnInit {
         this.resultCount = 5;
       this.gitRepoRequest.gitRepos(this.searchRepo);
   }
-
-
       getDataFunction() {
           this.gitRepoRequest.gitRepos(this.searchRepo);
 
       }
-
-
 }
