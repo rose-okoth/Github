@@ -8,14 +8,12 @@ input {
     margin-bottom: 16px;
 }
 
-
 input[type=submit] {
     background-color: #056b5b;
     color: white;
     text-align: center;
     /* width: 50%; */
 }
-
 
 button {
     background-color: #056b5b;
@@ -28,15 +26,12 @@ button {
     opacity: 0.9;
 }
 
-
-
 form {
     background-color: #f1f1f1;
     padding: 20px;
     width: 100vh;
      /*height: 100%; */
 }
-
 
 font {
     font-family: 'Playfair Display', serif;

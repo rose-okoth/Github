@@ -32,7 +32,6 @@ import { UpperCasePipe } from './upper-case.pipe';
       FormsModule,
       NgProgressModule.forRoot(),
       NgProgressHttpModule,
-      // HttpClient,
       HttpClientModule
   ],
 
