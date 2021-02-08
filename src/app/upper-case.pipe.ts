@@ -10,5 +10,4 @@ export class UpperCasePipe implements PipeTransform {
 
         return value.toUpperCase;
     }
-
 }

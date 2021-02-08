@@ -1,6 +1,6 @@
 # Project Name
 
-Github-Search
+Github
 ​
 # Project Description
 
