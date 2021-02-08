@@ -3,10 +3,7 @@ table {
     border-collapse: collapse;
     width: 100%;
 }
-/*.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {*/
-    /*background-color: red;*/
-/*}*/
-/*github user repos*/
+
 .my-repos p {
     text-indent: 3rem;
     text-align: left;
