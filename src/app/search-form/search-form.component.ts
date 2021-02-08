@@ -17,10 +17,8 @@ export class SearchFormComponent implements OnInit {
         data.reset();
     }
 
-
   constructor() { }
 
   ngOnInit() {
   }
-
 }
