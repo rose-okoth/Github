@@ -4,7 +4,6 @@ import { RouterModule, Routes} from '@angular/router';
 import { SearchComponent } from '../user/search.component';
 import { RepositoriesComponent } from '../repositories/repositories.component';
 
-
 const routes: Routes = [
     {path: 'users', component: SearchComponent},
     {path: 'repository', component: RepositoriesComponent},
