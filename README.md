@@ -15,7 +15,7 @@ Rose Okoth.
     `git clone https://rose-okoth.github.io/Github-Search/`
 ​
 1. Switch into the directory:
-    `cd Github-Search`
+    `cd Github-search`
 ​
 1. Run the launch command:
     `code .`
