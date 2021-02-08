@@ -1,10 +1,10 @@
 # Project Name
 
-Github
+Github-Search
 ​
 # Project Description
 
-Github search is a web application that allows the user to see names and descriptions of people's public repositories, as well as look for repositories.
+Github Search is a web application that allows the user to see names and descriptions of people's public repositories, as well as look for repositories.
 ​
 # Author(s) Information
 
@@ -12,10 +12,10 @@ Rose Okoth.
 ​
 # Setup Instructions
 1. Clone the repo:
-    `git clone https://rose-okoth.github.io/Github/`
+    `git clone https://rose-okoth.github.io/Github-Search/`
 ​
 1. Switch into the directory:
-    `cd Github`
+    `cd Github-Search`
 ​
 1. Run the launch command:
     `code .`
