@@ -12,7 +12,7 @@ Rose Okoth.
 ​
 # Setup Instructions
 1. Clone the repo:
-    `git clone https://rose-okoth.github.io/Github-Search/`
+    `git clone https://rose-okoth.github.io/Github/`
 ​
 1. Switch into the directory:
     `cd Github-search`
